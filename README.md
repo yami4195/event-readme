@@ -106,4 +106,4 @@ The backend operates strictly as a JSON API, decoupling the server-side logic fr
 
 ---
 
-*This documentation is generated to provide a comprehensive understanding of the HU Events application architecture and functionality.*
+
